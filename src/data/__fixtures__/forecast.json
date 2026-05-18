@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "from": "2026-05-16T00:00Z",
+      "to": "2026-05-16T00:30Z",
+      "intensity": { "forecast": 266, "actual": 271, "index": "moderate" }
+    },
+    {
+      "from": "2026-05-16T00:30Z",
+      "to": "2026-05-16T01:00Z",
+      "intensity": { "forecast": 252, "actual": 248, "index": "moderate" }
+    },
+    {
+      "from": "2026-05-16T01:00Z",
+      "to": "2026-05-16T01:30Z",
+      "intensity": { "forecast": 119, "actual": null, "index": "low" }
+    },
+    {
+      "from": "2026-05-16T01:30Z",
+      "to": "2026-05-16T02:00Z",
+      "intensity": { "forecast": 98, "actual": null, "index": "low" }
+    }
+  ]
+}
